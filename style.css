@@ -39,7 +39,7 @@ form .input-container {
 form .input-container input, input[type="submit"] {
     width: 100%;
     height: 45px;
-    border-radius: 25px;
+    border-radius: 35px;
 }
 
 form input[type="submit"] {
